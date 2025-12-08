@@ -1,39 +1,35 @@
 
-<h2>Hi! I'm Yiğit Arda KIDIMAN</h2>
-<div align="left">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=kdmn0.kdmn0&" />
+<div style="font-family: Arial, sans-serif; color: #333;">
+<h2 style="font-size: 24px; color: #1F2937;">Hello everyone, I'm Yiğit Arda KIDIMAN</h2>
+<h4>I'm from Türkiye and I'm a Software Engineering Student </h4>
+<div style="margin-bottom: 20px;">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kdmn0.kdmn0&" alt="Visitor Badge" style="border-radius: 8px;" />
 </div>
-<div>
-<h3 align="left">Techs</h3>
-<div align="left">
+<section style="margin-bottom: 20px;">
+<h3 style="font-size: 20px; color: #1F2937;">Technologies</h3>
+<div align="left" style="display: flex; flex-wrap: wrap;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40"/>
-<img width="12"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="python logo" height="40" style="border-radius: 5px;" />
+<img width="12">
 
-<img src="https://cdn.simpleicons.org/django/092E20" alt="django logo" height="40"/>
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" style="border-radius: 5px;" />
+<img width="12">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40"/>
-<img width="12"/>
+<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django logo" height="40" style="border-radius: 5px;" />
+<img width="12">
 
 </div>
-</div>
-<div>
-<h3 align="left">Social Media</h3>
+</section>
+<section style="margin-bottom: 20px;">
+<h3 style="font-size: 20px; color: #1F2937;">Social Media</h3>
+<div style="display: flex; flex-wrap: wrap;">
 
-<a href="https://www.instagram.com/yigitarddaa/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/instagram/default.svg" alt="instagram logo" height="40" width="52"/></a>
-<img width="12"/>
-<a href="https://www.linkedin.com/in/yi%C4%9Fit-arda-kidiman-700271323/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="52"/></a>
-<img width="12"/>
-</div>
-<div>
-<h3 align="left">Stats</h3>
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kdmn0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kdmn0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<img src="https://streak-stats.demolab.com?user=kdmn0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img src="https://github-profile-trophy.vercel.app?username=kdmn0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kdmn0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<a href="https://www.instagram.com/yigitarddaa/" target="_blank" style="margin-right: 15px;">
+<img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/instagram/default.svg" alt="instagram logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12">
+<a href="www.linkedin.com/in/yiğit-arda-kidiman-700271323" target="_blank" style="margin-right: 15px;">
+<img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12"></div>
+</section>
 </div>
