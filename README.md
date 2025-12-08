@@ -1,7 +1,7 @@
 
 <div style="font-family: Arial, sans-serif; color: #333;">
 <h2 style="font-size: 24px; color: #1F2937;">Hello everyone, I'm Yiğit Arda KIDIMAN</h2>
-<h4>I'm from Türkiye and I'm a Project Manager </h4>
+<h4>I'm from Türkiye and I'm a Software Engineering Student </h4>
 <div style="margin-bottom: 20px;">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kdmn0.kdmn0&" alt="Visitor Badge" style="border-radius: 8px;" />
 </div>
@@ -29,7 +29,7 @@
 
 <a href="https://www.instagram.com/yigitarddaa/" target="_blank" style="margin-right: 15px;">
 <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/instagram/default.svg" alt="instagram logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12">
-<a href="www.linkedin.com/in/yiğit-arda-kidiman-700271323/" target="_blank" style="margin-right: 15px;">
+<a href="[www.linkedin.com/in/yiğit-arda-kidiman-700271323/](https://www.linkedin.com/in/yi%C4%9Fit-arda-kidiman-700271323/)" target="_blank" style="margin-right: 15px;">
 <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12"></div>
 </section>
 </div>
