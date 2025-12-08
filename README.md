@@ -1,7 +1,7 @@
 
 <div style="font-family: Arial, sans-serif; color: #333;">
 <h2 style="font-size: 24px; color: #1F2937;">Hello everyone, I'm Yiğit Arda KIDIMAN</h2>
-<h4>I'm from Türkiye and I'm a Software Engineering Student </h4>
+<h4>I'm from Türkiye and I'm a Project Manager </h4>
 <div style="margin-bottom: 20px;">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kdmn0.kdmn0&" alt="Visitor Badge" style="border-radius: 8px;" />
 </div>
