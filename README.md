@@ -29,7 +29,7 @@
 
 <a href="https://www.instagram.com/yigitarddaa/" target="_blank" style="margin-right: 15px;">
 <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/instagram/default.svg" alt="instagram logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12">
-<a href="www.linkedin.com/in/yiğit-arda-kidiman-700271323/" target="_blank" style="margin-right: 15px;">
+<a href="https://www.linkedin.com/in/yi%C4%9Fit-arda-kidiman-700271323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="margin-right: 15px;">
 <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12"></div>
 </section>
 </div>
