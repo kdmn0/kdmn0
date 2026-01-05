@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Yiğit Arda Kıdıman from Türkiye<br><br>- I’m just a sofwtare engineering student</p>
+<p align="left">I'm Yiğit Arda Kıdıman from Türkiye<br><br>and I’m just a sofwtare engineering student</p>
 
 ###
 
